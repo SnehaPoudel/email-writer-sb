@@ -10,7 +10,6 @@ public class EmailgeneratorService {
         String prompt = buildPrompt(emailRequest);
 
         // Craft a request
-
         // Do request and get response
         // Return response
     }
