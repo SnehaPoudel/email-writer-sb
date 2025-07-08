@@ -11,8 +11,6 @@ public class EmailgeneratorService {
 
         // Craft a request
 
-
-
         // Do request and get response
         // Return response
     }
